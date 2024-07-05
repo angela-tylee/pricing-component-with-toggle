@@ -27,12 +27,17 @@ Users should be able to:
 
 ### Screenshot
 
+<img width="900" alt="image" src="https://github.com/angela-tylee/pricing-component-with-toggle/assets/145020731/59b320e0-e446-46c1-b5cf-5ae91aec1dbd">
+<img width="909" alt="image" src="https://github.com/angela-tylee/pricing-component-with-toggle/assets/145020731/d8459cf4-3b64-4787-baf9-cf681f1635cf">
+
+
+<img width="247" alt="image" src="https://github.com/angela-tylee/pricing-component-with-toggle/assets/145020731/801e4dc6-3c30-4b27-9e7c-d246457c3cb8">
 
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL: https://github.com/angela-tylee/pricing-component-with-toggle
+- Live Site URL: https://angela-tylee.github.io/pricing-component-with-toggle/
 
 ## My process
 
