@@ -269,28 +269,18 @@ input:checked + .slider:before {
   
   .background::before,
   .background::after {
-      /* content: "";
-      position: absolute;
-      width: 50%;
-      height: 100%;
-      top: 0;
-      background-repeat: no-repeat; */
       width: 100%;
   }
   
   .background::before {
-    /* background-image: url('./images/bg-bottom.svg'); */
     background-size: 45%;
     background-position: bottom left;
-    /* left: 0; */
     bottom: 0;
   }
   
   .background::after {
-    /* background-image: url('./images/bg-top.svg'); */
     background-size: 45%;
     background-position: top right;
-    /* right: 0; */
     top: 0;
   }
 
